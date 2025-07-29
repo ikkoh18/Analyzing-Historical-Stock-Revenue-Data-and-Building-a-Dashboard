@@ -2,7 +2,7 @@
 
 Este projeto faz a extração e análise de dados históricos de ações e receitas trimestrais de empresas como **Tesla**, **GameStop** e **Netflix**, utilizando **Python**, **BeautifulSoup** (Web Scraping) e **Pandas**.
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 - [Python 3.x](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
 - [Pandas](https://pandas.pydata.org/)
@@ -14,7 +14,7 @@ Este projeto faz a extração e análise de dados históricos de ações e recei
 
 Este projeto faz a extração e análise de dados históricos de ações e receitas trimestrais de empresas como **Tesla**, **GameStop** e **Netflix**, utilizando **Python**, **BeautifulSoup** (Web Scraping) e **Pandas**.
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 - [Python 3.x](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
 - [Pandas](https://pandas.pydata.org/)
